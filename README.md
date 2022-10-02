@@ -3,6 +3,7 @@ Universal Example with React and Redux
 ======================================
 
 ## Introduction
+Original unbuilding repo is https://github.com/coodoo/react-redux-isomorphic-example.
 
 This is an isomorphic/universal example built with react and [`Redux`](https://github.com/gaearon/redux) which utilizes the same codebase on server and browser to correctly handle multiple requests at the same time.
 
