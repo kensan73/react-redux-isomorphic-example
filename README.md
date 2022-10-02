@@ -10,10 +10,10 @@ This example was previously built with [alt](https://github.com/coodoo/react-alt
 
 Feel free to [ask questions](https://github.com/coodoo/react-redux-isomorphic-example/issues) or send over pull requests.
 
-## How to run
+## How to run (worked for me with node 16.13.2)
 
 ```
-$ npm i
+$ npm i --legacy-peer-deps
 $ npm start
 ```
 
